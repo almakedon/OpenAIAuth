@@ -1,4 +1,4 @@
-module github.com/acheong08/OpenAIAuth
+module github.com/almakedon/OpenAIAuth
 
 go 1.20
 
